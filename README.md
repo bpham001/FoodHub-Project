@@ -1,11 +1,11 @@
-Analyze the used devices dataset, build a model which will help develop a dynamic pricing strategy for used and refurbished devices, and identify factors that significantly influence the price.
+The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to draw some actionable insights for the business. Suppose you are hired as a Data Scientist in this company and the Data Science team has shared some of the key questions that need to be answered. Perform the data analysis to find answers to these questions that will help the company to improve the business.
 
-Skills & Tools Covered:
+Skills & Tools Covered
 
-EDA
+Exploratory Data Analysis (Variable Identification)
 
-Linear Regression
+Univariate analysis
 
-Linear Regression assumptions
+Bi-Variate analysis
 
-Business insights and recommendations
+Python
